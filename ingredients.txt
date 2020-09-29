@@ -3,3 +3,4 @@ water
 oil
 onion
 garlic
+chilli pepper
